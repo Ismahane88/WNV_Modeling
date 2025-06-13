@@ -1,0 +1,132 @@
+{
+    "optimal_temp_ranges": {
+        "max_temp": [
+            23.5,
+            36.6
+        ],
+        "min_temp": [
+            13.6,
+            21.1
+        ]
+    },
+    "optimal_precip_range": [
+        1.016,
+        220.47199999999998
+    ],
+    "high_risk_thresholds": {
+        "vector": 0.14823398847398817,
+        "host": 0.2088947594165802
+    },
+    "temp_risk_for_vector": {
+        "max_temp": {
+            "low": {
+                "max": 23.5,
+                "min": 13.6
+            },
+            "moderate": {
+                "max": 29.1,
+                "min": 16.840000000000003
+            },
+            "high": {
+                "max": 33.41,
+                "min": 18.175
+            },
+            "extreme": {
+                "max": 36.6,
+                "min": 15.580000000000002
+            }
+        },
+        "min_temp": {
+            "low": {
+                "max": 13.7,
+                "min": 4.9
+            },
+            "moderate": {
+                "max": 17.4,
+                "min": 6.510000000000001
+            },
+            "high": {
+                "max": 17.4,
+                "min": 7.960000000000001
+            },
+            "extreme": {
+                "max": 21.1,
+                "min": 6.260000000000002
+            }
+        }
+    },
+    "precip_risk_for_vector": {
+        "low": {
+            "max": 110.23599999999999,
+            "min": 0.0
+        },
+        "moderate": {
+            "max": 110.48999999999998,
+            "min": 0.0
+        },
+        "high": {
+            "max": 149.1233999999996,
+            "min": 0.0
+        },
+        "extreme": {
+            "max": 239.26799999999997,
+            "min": 0.0
+        }
+    },
+    "temp_risk_for_host": {
+        "max_temp": {
+            "low": {
+                "max": 34.92,
+                "min": 13.6
+            },
+            "moderate": {
+                "max": 34.565,
+                "min": 16.840000000000003
+            },
+            "high": {
+                "max": 34.53,
+                "min": 13.9
+            },
+            "extreme": {
+                "max": 36.6,
+                "min": 13.66
+            }
+        },
+        "min_temp": {
+            "low": {
+                "max": 17.4,
+                "min": 4.9
+            },
+            "moderate": {
+                "max": 17.4,
+                "min": 6.510000000000001
+            },
+            "high": {
+                "max": 17.4,
+                "min": 4.9
+            },
+            "extreme": {
+                "max": 21.1,
+                "min": 4.9
+            }
+        }
+    },
+    "precip_risk_for_host": {
+        "low": {
+            "max": 66.03999999999999,
+            "min": 0.0
+        },
+        "moderate": {
+            "max": 110.23599999999999,
+            "min": 0.0
+        },
+        "high": {
+            "max": 110.23599999999999,
+            "min": 0.0
+        },
+        "extreme": {
+            "max": 239.26799999999997,
+            "min": 0.0
+        }
+    }
+}
