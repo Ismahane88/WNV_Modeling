@@ -20,10 +20,10 @@ OM037673;Spain;Spain: Tarragona, Catalonia;Spain;;Accipiter gentilis;Bird;brain;
 PQ641624;Spain;Spain: BARCELONA ZONA UNIVERSITARIA;Spain;;Larus michahellis;Bird;brain;28-07-2023;0.09;31.3;22.9
 OX442293;Germany;Germany: Berlin;Germany;;Phoenicopterus chilensis;Bird;;25-08-2020;1.97;28.3;14.7
 OX442271;Germany;Germany: Saxony;Germany;;Phoenicopterus chilensis;Bird;;2020-09;2.15;22.6;9.1
-DQ874421;USA;USA: Illinois, Cook;USA;IL;Sciurus carolinensis;Bird;;20-08-2005;2.19;29.1;17.4
-DQ874422;USA;USA: Illinois, Cook;USA;IL;Sciurus carolinensis;Bird;;02-09-2005;2.6;23.5;13.7
-DQ874423;USA;USA: Illinois, Cook;USA;IL;Sciurus carolinensis;Bird;;17-09-2005;2.6;23.5;13.7
-KX547474;USA;USA: Albany Co., NY;USA;NY;Sciurus carolinensis;Bird;;11-10-2002;5.18;13.2;3.6
+DQ874421;USA;USA: Illinois, Cook;USA;IL;Sciurus carolinensis;;;20-08-2005;2.19;29.1;17.4
+DQ874422;USA;USA: Illinois, Cook;USA;IL;Sciurus carolinensis;;;02-09-2005;2.6;23.5;13.7
+DQ874423;USA;USA: Illinois, Cook;USA;IL;Sciurus carolinensis;;;17-09-2005;2.6;23.5;13.7
+KX547474;USA;USA: Albany Co., NY;USA;NY;Sciurus carolinensis;;;11-10-2002;5.18;13.2;3.6
 OX442284;Germany;Germany: Thuringia;Germany;;Bubo scandiacus;Bird;;12-07-2020;1.05;23.6;11.3
 KY652382;Turkey;Hatay Province, Turkey;Turkey;;Clanga pomarina;Bird;heart;01-09-2016;3.1;30.7;23.7
 KY711339;Turkey;Hatay Province, Turkey;Turkey;;Clanga pomarina;Bird;kidney, abdominal cavity;01-09-2016;3.1;30.7;23.7
@@ -326,8 +326,8 @@ OX451204;Germany;Germany: Saxony-Anhalt;Germany;;Phoenicopterus chilensis;Bird;;
 OX442282;Germany;Germany: Berlin;Germany;;Phoenicopterus ruber;Bird;;22-08-2020;1.97;28.3;14.7
 KY782107;USA;USA: Illinois, West Chicago suburbs;USA;IL;Poecile atricapillus;Bird;;01-08-2012;5.07;28.9;18.1
 OX442275;Germany;Germany: Saxony-Anhalt;Germany;;Pyrrhocorax graculus;Bird;;12-07-2020;1.93;24.5;12.4
-KX547311;USA;USA: Albany Co., NY;USA;NY;Sciurus carolinensis;Bird;;25-09-2003;5.22;22;10.7
-KX547609;USA;USA: Albany Co., NY;USA;NY;Sciurus carolinensis;Bird;;25-09-2003;5.22;22;10.7
+KX547311;USA;USA: Albany Co., NY;USA;NY;Sciurus carolinensis;;;25-09-2003;5.22;22;10.7
+KX547609;USA;USA: Albany Co., NY;USA;NY;Sciurus carolinensis;;;25-09-2003;5.22;22;10.7
 OX442278;Germany;Germany: Saxony-Anhalt;Germany;;Serinus canaria;Bird;;2020-09;1.8;22.6;9.7
 KY782106;USA;USA: Illinois, West Chicago suburbs;USA;IL;Spinus tristis;Bird;;25-07-2012;3.75;32.9;22.2
 KY782109;USA;USA: Illinois, West Chicago suburbs;USA;IL;Turdus migratorius;Bird;;03-08-2005;2.19;29.1;17.4
