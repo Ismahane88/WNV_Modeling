@@ -15,11 +15,18 @@ OQ326499;Germany;Germany: Thuringia;Germany;;Trichoglossus moluccanus;Bird;blood
 OM037670;Spain;Spain: Lerida, Catalonia;Spain;;Accipiter gentilis;Bird;brain;2017-09;0.55;26.7;12.9
 MW915462;Spain;Spain: Manilva, Malaga;Spain;;Accipiter gentilis;Bird;brain;2017-09;0.06;29.6;19.3
 OM037671;Spain;Spain: Lerida, Catalonia;Spain;;Accipiter gentilis;Bird;brain;2020-09;0.19;28.4;14.6
-OM037672;Spain;Spain: Tarragona, Catalonia;Spain;;Accipiter gentilis;Bird;brain;2020-09;0.53;27.2;17.6
-OM037673;Spain;Spain: Tarragona, Catalonia;Spain;;Accipiter gentilis;Bird;brain;2020-09;0.53;27.2;17.6
+OQ721775;USA;USA: Sacramento, California;USA;CA;Haemorhous mexicanus;Bird;tissue;01-08-2005;0;34.9;15.7
+OQ721227;USA;USA: Sacramento, California;USA;CA;Haemorhous mexicanus;Bird;tissue;24-07-2007;0;33.7;15.6
+OQ721503;USA;USA: Kern, California;USA;CA;Haemorhous mexicanus;Bird;tissue;01-08-2005;0.84;36.9;16.3
 PQ641624;Spain;Spain: BARCELONA ZONA UNIVERSITARIA;Spain;;Larus michahellis;Bird;brain;28-07-2023;0.09;31.3;22.9
 OX442293;Germany;Germany: Berlin;Germany;;Phoenicopterus chilensis;Bird;;25-08-2020;1.97;28.3;14.7
+OM037672;Spain;Spain: Tarragona, Catalonia;Spain;;Accipiter gentilis;Bird;brain;2020-09;0.53;27.2;17.6
+OM037673;Spain;Spain: Tarragona, Catalonia;Spain;;Accipiter gentilis;Bird;brain;2020-09;0.53;27.2;17.6
 OX442271;Germany;Germany: Saxony;Germany;;Phoenicopterus chilensis;Bird;;2020-09;2.15;22.6;9.1
+MH507836;USA;USA: Bakersfield,California;USA;CA;Haemorhous mexicanus;Bird;tissue;17-08-2006;0;34.8;19.7
+MH507857;USA;USA: Bakersfield,California;USA;CA;Haemorhous mexicanus;Bird;tissue;14-06-2009;0.06;31.7;18.3
+MH507715;USA;USA: Bakersfield,California;USA;CA;Haemorhous mexicanus;Bird;tissue;18-06-2009;0.06;31.7;18.3
+MH507870;USA;USA: Bakersfield,California;USA;CA;Haemorhous mexicanus;Bird;tissue;23-07-2010;0;36.6;21.2
 OX442284;Germany;Germany: Thuringia;Germany;;Bubo scandiacus;Bird;;12-07-2020;1.05;23.6;11.3
 KY652382;Turkey;Hatay Province, Turkey;Turkey;;Clanga pomarina;Bird;heart;01-09-2016;3.1;30.7;23.7
 KY711339;Turkey;Hatay Province, Turkey;Turkey;;Clanga pomarina;Bird;kidney, abdominal cavity;01-09-2016;3.1;30.7;23.7
@@ -195,14 +202,9 @@ OQ721781;USA;USA: Sacramento, California;USA;CA;Euphagus cyanocephalus;Bird;tiss
 OQ721319;USA;USA: Kern, California;USA;CA;Euphagus cyanocephalus;Bird;tissue;08-09-2004;0;33.6;11.7
 MH507881;USA;USA: Bakersfield,California;USA;CA;Euphagus cyanocephalus;Bird;tissue;10-06-2012;0;33.1;17.4
 MH507882;USA;USA: Bakersfield,California;USA;CA;Falco sparverius;Bird;tissue;13-06-2012;0;33.1;17.4
-OQ721775;USA;USA: Sacramento, California;USA;CA;Haemorhous mexicanus;Bird;tissue;01-08-2005;0;34.9;15.7
-OQ721227;USA;USA: Sacramento, California;USA;CA;Haemorhous mexicanus;Bird;tissue;24-07-2007;0;33.7;15.6
-OQ721503;USA;USA: Kern, California;USA;CA;Haemorhous mexicanus;Bird;tissue;01-08-2005;0.84;36.9;16.3
-MH507836;USA;USA: Bakersfield,California;USA;CA;Haemorhous mexicanus;Bird;tissue;17-08-2006;0;34.8;19.7
-MH507857;USA;USA: Bakersfield,California;USA;CA;Haemorhous mexicanus;Bird;tissue;14-06-2009;0.06;31.7;18.3
-MH507715;USA;USA: Bakersfield,California;USA;CA;Haemorhous mexicanus;Bird;tissue;18-06-2009;0.06;31.7;18.3
-MH507870;USA;USA: Bakersfield,California;USA;CA;Haemorhous mexicanus;Bird;tissue;23-07-2010;0;36.6;21.2
-MH507885;USA;USA: Bakersfield,California;USA;CA;Haemorhous mexicanus;Bird;tissue;09-07-2012;0.02;36.2;20.5
+OQ721116;USA;USA: Sacramento, California;USA;CA;Turdus migratorius;Bird;tissue;04-09-2009;0.19;32.9;14.6
+OQ721617;USA;USA: Kern, California;USA;CA;Turdus migratorius;Bird;tissue;16-06-2005;0;30.5;10.9
+MH507827;USA;USA: Bakersfield,California;USA;CA;Turdus migratorius;Bird;tissue;13-07-2006;0;38.4;23.7
 OQ721295;USA;USA: Sacramento, California;USA;CA;Mimus polyglottos;Bird;tissue;21-07-2005;0;36.3;17.2
 OQ721196;USA;USA: Sacramento, California;USA;CA;Mimus polyglottos;Bird;tissue;23-08-2011;0;33.3;14.4
 OQ721479;USA;USA: Kern, California;USA;CA;Passer domesticus;Bird;tissue;26-07-2005;0;38.8;17.8
@@ -217,9 +219,6 @@ MH507871;USA;USA: Bakersfield,California;USA;CA;Passer domesticus;Bird;tissue;26
 MH507874;USA;USA: Bakersfield,California;USA;CA;Passer domesticus;Bird;tissue;17-06-2011;0.08;32.2;16.8
 MH507875;USA;USA: Bakersfield,California;USA;CA;Passer domesticus;Bird;tissue;17-06-2011;0.08;32.2;16.8
 MH507879;USA;USA: Bakersfield,California;USA;CA;Passer domesticus;Bird;tissue;17-11-2011;0.76;17.5;6.2
-OQ721116;USA;USA: Sacramento, California;USA;CA;Turdus migratorius;Bird;tissue;04-09-2009;0.19;32.9;14.6
-OQ721617;USA;USA: Kern, California;USA;CA;Turdus migratorius;Bird;tissue;16-06-2005;0;30.5;10.9
-MH507827;USA;USA: Bakersfield,California;USA;CA;Turdus migratorius;Bird;tissue;13-07-2006;0;38.4;23.7
 MH507855;USA;USA: Bakersfield,California;USA;CA;Turdus migratorius;Bird;tissue;23-07-2008;0;36.2;22.5
 MH507864;USA;USA: Bakersfield,California;USA;CA;Turdus migratorius;Bird;tissue;23-07-2009;0;37.9;22.6
 MH507854;USA;USA: Bakersfield,California;USA;CA;Zenaida macroura;Bird;tissue;13-03-2008;0;21.2;7.7
@@ -247,6 +246,10 @@ OX442304;Germany;Germany: Saxony-Anhalt;Germany;;Bubo scandiacus;Bird;;15-08-202
 KX547263;USA;USA: Albany Co., NY;USA;NY;Cardinalis cardinalis;Bird;;16-09-2002;3.14;23.9;11.3
 EF631162;USA;USA: Illinois, Cook County;USA;IL;Colaptes auratus;Bird;;01-08-2005;2.19;29.1;17.4
 EF631163;USA;USA: Illinois, Cook County;USA;IL;Colaptes auratus;Bird;;01-08-2005;2.19;29.1;17.4
+EF631153;USA;USA: Illinois, Cook County;USA;IL;Haemorhous mexicanus;Bird;;28-07-2005;2.26;24.7;15
+EF631152;USA;USA: Illinois, Cook County;USA;IL;Haemorhous mexicanus;Bird;;09-08-2005;2.19;29.1;17.4
+KX547168;USA;USA: Albany Co., NY;USA;NY;Haemorhous mexicanus;Bird;;27-09-2012;5.32;22.1;10.4
+MH507885;USA;USA: Bakersfield,California;USA;CA;Haemorhous mexicanus;Bird;tissue;09-07-2012;0.02;36.2;20.5
 DQ874424;USA;USA: Illinois, Cook;USA;IL;Corvus brachyrhynchos;Bird;;23-07-2002;1.63;30.6;20.4
 DQ874426;USA;USA: Illinois, Cook;USA;IL;Corvus brachyrhynchos;Bird;;23-07-2002;1.63;30.6;20.4
 DQ874427;USA;USA: Illinois, Cook;USA;IL;Corvus brachyrhynchos;Bird;;26-07-2002;1.63;30.6;20.4
@@ -305,9 +308,7 @@ DQ874420;USA;USA: Illinois, Henry;USA;IL;Cyanocitta cristata;Bird;;30-09-2005;2.
 KX547355;USA;USA: Albany Co., NY;USA;NY;Cyanocitta cristata;Bird;;13-09-2005;1.72;24.9;11.8
 MW751837;Serbia;Serbia: Curug;Serbia;;Falco tinnunculus;Bird;;25-06-2018;6.41;27.2;16.2
 OX442301;Germany;Germany: Thuringia;Germany;;Garrulus glandarius;Bird;;2020-08;3.55;25.6;14.8
-EF631153;USA;USA: Illinois, Cook County;USA;IL;Haemorhous mexicanus;Bird;;28-07-2005;2.26;24.7;15
-EF631152;USA;USA: Illinois, Cook County;USA;IL;Haemorhous mexicanus;Bird;;09-08-2005;2.19;29.1;17.4
-KX547168;USA;USA: Albany Co., NY;USA;NY;Haemorhous mexicanus;Bird;;27-09-2012;5.32;22.1;10.4
+OX442278;Germany;Germany: Saxony-Anhalt;Germany;;Serinus canaria;Bird;;2020-09;1.8;22.6;9.7
 OX442290;Germany;Germany: Saxony-Anhalt;Germany;;Lathamus discolor;Bird;;21-09-2020;1.8;22.6;9.7
 OX442273;Germany;Germany: Saxony;Germany;;Parus major;Bird;;2020-08;3.69;27.8;15.3
 EF631160;USA;USA: Illinois, Cook County;USA;IL;Passer domesticus;Bird;;01-08-2005;2.19;29.1;17.4
@@ -322,7 +323,6 @@ OX451204;Germany;Germany: Saxony-Anhalt;Germany;;Phoenicopterus chilensis;Bird;;
 OX442282;Germany;Germany: Berlin;Germany;;Phoenicopterus ruber;Bird;;22-08-2020;1.97;28.3;14.7
 KY782107;USA;USA: Illinois, West Chicago suburbs;USA;IL;Poecile atricapillus;Bird;;01-08-2012;5.07;28.9;18.1
 OX442275;Germany;Germany: Saxony-Anhalt;Germany;;Pyrrhocorax graculus;Bird;;12-07-2020;1.93;24.5;12.4
-OX442278;Germany;Germany: Saxony-Anhalt;Germany;;Serinus canaria;Bird;;2020-09;1.8;22.6;9.7
 KY782106;USA;USA: Illinois, West Chicago suburbs;USA;IL;Spinus tristis;Bird;;25-07-2012;3.75;32.9;22.2
 KY782109;USA;USA: Illinois, West Chicago suburbs;USA;IL;Turdus migratorius;Bird;;03-08-2005;2.19;29.1;17.4
 KY782105;USA;USA: Illinois, West Chicago suburbs;USA;IL;Turdus migratorius;Bird;;18-07-2012;3.75;32.9;22.2
